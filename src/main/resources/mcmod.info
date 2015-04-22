@@ -1,0 +1,16 @@
+[
+{
+  "modid": "BotanicalExpansion",
+  "name": "Botanical Expansion",
+  "description": "An addon for Botania",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MrComputerGhost"],
+  "credits": "MrComputerGhost, Vazkii",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["Botania"]
+}
+]
